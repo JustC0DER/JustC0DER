@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me c0der2583@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I've been coing for 5 years
+- ⚡ Fun fact: I've been coding for 5 years
